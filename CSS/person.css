@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(https://www.viola-group.com/wp-content/uploads/2015/07/OMG-Fortune-header.gif);
+    background-size: cover;
+}
+
+.person{
+    padding: 2%;
+    width: 50%;
+    height: 80vh;
+    display: grid;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.642);
+    margin-top: 8%;
+    margin-left: 25%;
+}
+
+img{
+    margin-left: 40%;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.infor{ 
+    color: white;
+    width: 80vh;
+    height: 50vh;
+    background: black;
+    font-size: 30px;
+}
+input{
+    width: 40%;
+    height: 7%;
+}
